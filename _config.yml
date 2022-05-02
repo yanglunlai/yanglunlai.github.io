@@ -18,14 +18,13 @@ author: Yang-Lun (Alan) Lai
 
 navbar-links:
   About Me: "aboutme"
-  Project: "aboutme"
-  Resume: "aboutme"
-  Linkedin: "aboutme"
-  
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#   Author's home: "https://deanattali.com"
+#   Project: "aboutme"
+#   Resume: "aboutme"
+#   Linkedin: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -81,12 +80,10 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  email: true
   twitter: false
   facebook: false
   linkedin: true
-  youtube: true
-  github: true
+  email: true
   vk: false
 
 # How to display the link to your website in the footer

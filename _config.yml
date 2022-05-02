@@ -18,13 +18,15 @@ author: Yang-Lun (Alan) Lai
 
 navbar-links:
   About Me: "aboutme"
+  Project: "aboutme"
+  Resume: "Resume_YangLun_Lai.pdf"
 #   Project: "aboutme"
 #   Resume: "aboutme"
 #   Linkedin: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 

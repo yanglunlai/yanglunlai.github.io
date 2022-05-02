@@ -8,9 +8,6 @@
 # Name of website
 title: Yang-Lun (Alan) Lai
 
-# Short description of your site
-description: MS ECE (Robotics track) at Umich
-
 # Your name to show in the footer
 author: Yang-Lun (Alan) Lai
 
@@ -21,8 +18,8 @@ navbar-links:
   Projects: "aboutme"
   Resume: "Resume_YangLun_Lai.pdf"
   Media Links:
-    - Linkedin: "yanglun-lai"
-    - Github: "yanglunlai"
+    - Linkedin: "https://www.linkedin.com/in/yanglun-lai/"
+    - Github: "https://github.com/yanglunlai"
 #   Project: "aboutme"
 #   Resume: "aboutme"
 #   Linkedin: "aboutme"

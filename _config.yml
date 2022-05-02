@@ -11,7 +11,6 @@ title: Yang-Lun (Alan) Lai
 # Short description of your site
 description: MS ECE (Robotics track) at Umich
 
-
 # Your name to show in the footer
 author: Yang-Lun (Alan) Lai
 
@@ -19,10 +18,14 @@ author: Yang-Lun (Alan) Lai
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Project: "aboutme"
+  Resume: "aboutme"
+  Linkedin: "aboutme"
+  
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -43,16 +46,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  email: "yanglunl@umich.edu"
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+#   twitter: daattali
+#   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,15 +75,18 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  email: true
+  twitter: false
+  facebook: false
   linkedin: true
+  youtube: true
+  github: true
   vk: false
 
 # How to display the link to your website in the footer

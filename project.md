@@ -5,7 +5,7 @@ title: Projects
 ---
 ## Robotics
 
-### Robot Localization using ORB-SLAM3 and Graph-Based Sensor Fusion
+#### Robot Localization using ORB-SLAM3 and Graph-Based Sensor Fusion
 
 
 #### Kinodynamic RRT Motion Planning for a Planar Hover-craft Robot

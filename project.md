@@ -5,17 +5,17 @@ title: Projects
 ---
 ## Robotics
 
-#### Robot Localization using ORB-SLAM3 and Graph-Based Sensor Fusion
+### Robot Localization using ORB-SLAM3 and Graph-Based Sensor Fusion
 
 
-#### Kinodynamic RRT Motion Planning for a Planar Hover-craft Robot
+### Kinodynamic RRT Motion Planning for a Planar Hover-craft Robot
 
 
-#### Collaborative Motion System of the Collaborative Tea Harvesting Vehicle
+### Collaborative Motion System of the Collaborative Tea Harvesting Vehicle
 
 
 ## Deep Learning for Computer Vision
-#### Novel View Synthesis with Neural Radiance Fields (NeRF)-based Models
+### Novel View Synthesis with Neural Radiance Fields (NeRF)-based Models
 
 <!-- 
 My name is Inigo Montoya. I have the following qualities:

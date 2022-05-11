@@ -8,11 +8,11 @@ I am now pursuing my master’s degree in [Electrical and Computer Engineering](
 
 
 ### Publications
-#### Journal Article
+**Journal Article**
 • **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, “A collaborative robot for tea harvesting with adjustable autonomy,” Cybernetics and Systems, pp. 1–19, 2021.
 
-#### Conference Proceeding 
+**Conference Proceeding**
 • **Y.-L. Lai**, P.-L. Chen, and P.-L. Yen,“A human-robot cooperative vehicle for tea plucking,”in 2020 IEEE 7th International Conference on Control, Decision and Information Technologies (CoDIT), 2020.
 
-#### Patent
+**Patent**
 •	P.-L. Yen, H.-Y. Hsu, **Y.-L. Lai**, P.-L. Chen, and H.-Y. Chan. 2020. “Supporting Vehicle System.” Taiwan Patent I737348, filed June 2020, and issued December 2021.

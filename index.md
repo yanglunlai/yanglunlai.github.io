@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Yang-Lun Lai
-subtitle: MS ECE (Robotics track) at University of Michigan
+subtitle: MS ECE Robotics at University of Michigan
 ---
 ### About me
 I am now pursuing my master’s degree in [Electrical and Computer Engineering](https://ece.engin.umich.edu/research/research-areas/robotics-autonomous-systems/) (Robotics track) at the [University of Michigan](https://umich.edu/). I have strong interests and multiple hands-on experiences in motion planning, sensor fusion, and machine learning for robots and autonomous vehicles. 
@@ -10,11 +10,14 @@ Recently, I have been joining the [Image-Guided Medical Robotics Lab](https://me
 
 In 2022, I joined [Isuzu Technical Center of America](https://www.isuzutechcenter.com/) as an Advanced Engineering Intern - Autonomous Driving Software Intern. During my internship, I mainly focused on developing path planning and sensor fusion features using C++ on Robot Operating System(ROS/ROS2). 
 
-I received my bachelor's degree in [Biomechatronics Engineering](https://www.bime.ntu.edu.tw/English/Default.html) at National Taiwan University (NTU). While at NTU, I worked with [Dr. Ping-Lang Yen](http://ai.robo.ntu.edu.tw/en/personal.php?id=70) on agricultural robots and built the first [human-robot collaborative tea harvesting vehicle](https://www.tandfonline.com/doi/full/10.1080/01969722.2021.2008678?casa_token=HbjHRBD5nHoAAAAA%3A8s-BUMPLO9cl9dtvx4MxB9Ak-eDao5roP5im4yfsbI80ggUBG6CjuHUFSseR464pc83F9puzS4nP) in Taiwan.
+I received my bachelor's degree in [Biomechatronics Engineering](https://www.bime.ntu.edu.tw/English/Default.html) at National Taiwan University (NTU). While at NTU, I worked with [Prof. Ping-Lang Yen](http://ai.robo.ntu.edu.tw/en/personal.php?id=70) on agricultural robots and built the first [human-robot collaborative tea harvesting vehicle](https://www.tandfonline.com/doi/full/10.1080/01969722.2021.2008678?casa_token=HbjHRBD5nHoAAAAA%3A8s-BUMPLO9cl9dtvx4MxB9Ak-eDao5roP5im4yfsbI80ggUBG6CjuHUFSseR464pc83F9puzS4nP) in Taiwan.
 
 
 
 ### Publications
+**Book Chapter**
+• P.-L. Yen and **Y.-L. Lai**, “Coordinated mechanical operations in fields,” in Encyclopedia of Smart Agriculture Technologies, Cham: Springer International Publishing, 2023, pp. 1–8.
+
 **Journal Article**
 
 • **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, “A collaborative robot for tea harvesting with adjustable autonomy,” Cybernetics and Systems, pp. 1–19, 2021.

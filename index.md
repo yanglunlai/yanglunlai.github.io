@@ -16,6 +16,7 @@ I received my bachelor's degree in [Biomechatronics Engineering](https://www.bim
 
 ### Publications
 **Book Chapter**
+
 • P.-L. Yen and **Y.-L. Lai**, “Coordinated mechanical operations in fields,” in Encyclopedia of Smart Agriculture Technologies, Cham: Springer International Publishing, 2023, pp. 1–8.
 
 **Journal Article**

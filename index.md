@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Yang-Lun Lai
-subtitle: Autonomous Driving Software Engineer | Isuzu | Michigan
+subtitle: Autonomous Driving Software Engineer | Isuzu
 ---
 ### About me
 I am an Autonomous Driving Software Engineer at [Isuzu](https://www.isuzutechcenter.com/) in Michigan, specializing in motion planning and machine learning.

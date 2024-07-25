@@ -13,18 +13,24 @@ I earned my bachelor's degree in [Biomechatronics Engineering](https://www.bime.
 Outside of my academic pursuits, I am a singer with over 5 years of experience in acappella and chorus. Additionally, I have a passion for playing golf, enjoying scenic drives, and traveling.
 
 ### Publications
-**Book Chapter**
-
-• P.-L. Yen and **Y.-L. Lai**, “Coordinated mechanical operations in fields,” in Encyclopedia of Smart Agriculture Technologies, Cham: Springer International Publishing, 2023, pp. 1–8.
-
-**Journal Article**
+**Journal Publications**
 
 • **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, “A collaborative robot for tea harvesting with adjustable autonomy,” Cybernetics and Systems, pp. 1–19, 2021.
 
-**Conference Proceeding**
+**Conference Publications (Peer-Reviewed)**
 
 • **Y.-L. Lai**, P.-L. Chen, and P.-L. Yen,“A human-robot cooperative vehicle for tea plucking,”in 2020 IEEE 7th International Conference on Control, Decision and Information Technologies (CoDIT), 2020.
 
-**Patent**
+**Conference Publications (Abstracts)**
+
+• D. M. Rajani, F. Seghizzi, **Y.-L. Lai**, K. G. Buchta, and M. Draelos, "Adaptive scanning OCT with scene prediction and dynamics-aware scans," in Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXVIII, 2024, pp. PC128302O.
+
+• D. M. Rajani, F. Seghizzi, **Y.-L. Lai**, K. G. Buchta, and M. Draelos, "Low-latency surgical scene imaging with scene prediction and dynamics-aware scans," Investigative Ophthalmology & Visual Science, vol. 65, no. 7, pp. 5920-5920, 2024.
+
+**Book Chapter Publications**
+
+• P.-L. Yen and **Y.-L. Lai**, “Coordinated mechanical operations in fields,” in Encyclopedia of Smart Agriculture Technologies, Cham: Springer International Publishing, 2023, pp. 1–8.
+
+**Patents**
 
 •	P.-L. Yen, H.-Y. Hsu, **Y.-L. Lai**, P.-L. Chen, and H.-Y. Chan. 2020. “Supporting Vehicle System.” Taiwan Patent I737348, filed June 2020, and issued December 2021.

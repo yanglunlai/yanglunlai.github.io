@@ -16,9 +16,10 @@ author: Yang-Lun (Alan) Lai
 navbar-links:
 #   About Me: "aboutme"
   Projects: "project"
-  Resume: "Resume_YangLun_Lai.pdf"
+  # Resume: "Resume_YangLun_Lai.pdf"
   Media Links:
     - Linkedin: "https://www.linkedin.com/in/yanglun-lai/"
+    - Google Scholar: "https://scholar.google.com/citations?user=neOm3nYAAAAJ&hl=en"
     - Github: "https://github.com/yanglunlai"
 #   Project: "aboutme"
 #   Resume: "aboutme"

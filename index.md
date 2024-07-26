@@ -15,7 +15,7 @@ Outside of my academic pursuits, I am a singer with over 5 years of experience i
 ### Publications
 **Journal Publications**
 
-• **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, “A collaborative robot for tea harvesting with adjustable autonomy,” Cybernetics and Systems, pp. 1–19, 2021.
+• **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, "A collaborative robot for tea harvesting with adjustable autonomy," Cybernetics and Systems, vol. 53, no. 1, pp. 4-22, 2022.
 
 **Conference Publications (Peer-Reviewed)**
 
@@ -29,7 +29,7 @@ Outside of my academic pursuits, I am a singer with over 5 years of experience i
 
 **Book Chapter Publications**
 
-• P.-L. Yen and **Y.-L. Lai**, “Coordinated mechanical operations in fields,” in Encyclopedia of Smart Agriculture Technologies, Cham: Springer International Publishing, 2023, pp. 1–8.
+• P.-L. Yen and **Y.-L. Lai**, "Coordinated Mechanical Operations in Fields," in Encyclopedia of Smart Agriculture Technologies, Springer, 2023, pp. 1-8.
 
 **Patents**
 

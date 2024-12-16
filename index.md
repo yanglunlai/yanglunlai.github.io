@@ -4,7 +4,7 @@ title: Yang-Lun Lai
 subtitle: Autonomous Driving Software Engineer
 ---
 ### About me
-I am an Autonomous Driving Software Engineer at [Isuzu](https://www.isuzutechcenter.com/) in Michigan, specializing in motion planning and machine learning.
+I am an Autonomous Driving Software Engineer at [Isuzu](https://www.isuzutechcenter.com/) in Mountain View, California, specializing in motion planning and machine learning.
 
 I hold a master's degree in [Electrical and Computer Engineering](https://ece.engin.umich.edu/research/research-areas/robotics-autonomous-systems/) from the [University of Michigan](https://umich.edu/), where I was a member of the [Image-Guided Medical Robotics Lab](https://medical.robotics.umich.edu/). During my time there, I conducted independent research focused on online trajectory generation for adaptive scanning under the supervision of Prof. Mark Draelos.
 

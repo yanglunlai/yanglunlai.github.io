@@ -15,6 +15,8 @@ Outside of my academic pursuits, I am a singer with over 5 years of experience i
 ### Publications
 **Journal Publications**
 
+• D. M. Rajani, F. Seghizzi, **Y.-L. Lai**, K. G. Buchta, and M. Draelos, “Dynamics-aware deep predictive adaptive scanning optical coherence tomography,” Biomed. Opt. Express, vol. 16, no. 1, p. 186, 2025.
+
 • **Y.-L. Lai**, P.-L. Chen, T.-C. Su, W.-Y. Hwang, S.-F. Chen, and P.-L. Yen, "A collaborative robot for tea harvesting with adjustable autonomy," Cybernetics and Systems, vol. 53, no. 1, pp. 4-22, 2022.
 
 **Conference Publications (Peer-Reviewed)**
